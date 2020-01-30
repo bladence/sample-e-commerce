@@ -3,8 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="e6d1351e-d5a6-4c54-a42b-b3dd28e4297a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/header/header.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/header.component.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/header/header.styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/header.styles.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,19 +26,22 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/header" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/custom-buttom" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/custom-buttom" />
+      <recent name="$PROJECT_DIR$/src/components/form-input" />
       <recent name="$PROJECT_DIR$/src/components/header" />
       <recent name="$PROJECT_DIR$/src/assets" />
       <recent name="$PROJECT_DIR$/src" />
@@ -79,7 +86,8 @@
       <updated>1580328025099</updated>
       <workItem from="1580328027479" duration="2089000" />
       <workItem from="1580336485162" duration="1111000" />
-      <workItem from="1580350024978" duration="5495000" />
+      <workItem from="1580350024978" duration="8369000" />
+      <workItem from="1580410984261" duration="4358000" />
     </task>
     <servers />
   </component>
